@@ -2,7 +2,7 @@
   var typed = new Typed(".type", {
     strings: [
       "",
-      "Full Stak Web Devoloper",
+      "Full Stack Web Devoloper",
       "Php Laravel Devloper",
       "Custom web developer",
       "Freelancer",
